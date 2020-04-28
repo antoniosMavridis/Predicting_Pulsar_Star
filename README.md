@@ -1,4 +1,8 @@
 # Predicting a Pulsar Star
+This is a simple Machine Learning project created for educational purposes. The project aimed to familiarize with the concept of Classification and especially with a predictive modeling approach which called Decision Tree Algorithm. <br />
+**Results: Decision Tree Accuracy was 0.969 %** 
+
+The project has been created with iPython in Google Colaboratory.
 
 
 <img src="pulsar.gif" width="900" height="400" />
