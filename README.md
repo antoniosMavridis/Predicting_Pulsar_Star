@@ -1,6 +1,6 @@
 # Predicting a Pulsar Star
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](pulsar.jpg)
 Format: ![Alt Text](url)
 
 ## Data Set Information
