@@ -24,11 +24,11 @@ Each candidate is described by 8 continuous variables, and a single class variab
 9. Class
 
 ### Source
-Dr Robert Lyon
-University of Manchester
-School of Physics and Astronomy
-Alan Turing Building
-Manchester M13 9PL
-United Kingdom
-robert.lyon '@' manchester.ac.uk
+Dr Robert Lyon <br />
+University of Manchester <br />
+School of Physics and Astronomy <br />
+Alan Turing Building <br />
+Manchester M13 9PL <br />
+United Kingdom <br />
+robert.lyon '@' manchester.ac.uk <br />
 url: https://archive.ics.uci.edu/ml/datasets/HTRU2
