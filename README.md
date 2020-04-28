@@ -23,3 +23,12 @@ Each candidate is described by 8 continuous variables, and a single class variab
 8. Skewness of the DM-SNR curve.
 9. Class
 
+## Source
+Dr Robert Lyon
+University of Manchester
+School of Physics and Astronomy
+Alan Turing Building
+Manchester M13 9PL
+United Kingdom
+robert.lyon '@' manchester.ac.uk
+url: https://archive.ics.uci.edu/ml/datasets/HTRU2
