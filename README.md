@@ -33,3 +33,11 @@ Manchester M13 9PL <br />
 United Kingdom <br />
 robert.lyon '@' manchester.ac.uk <br />
 url: https://archive.ics.uci.edu/ml/datasets/HTRU2
+
+### Citation
+R. J. Lyon, B. W. Stappers, S. Cooper, J. M. Brooke, J. D. Knowles, Fifty Years of Pulsar Candidate Selection: From simple filters to a new principled real-time classification approach, Monthly Notices of the Royal Astronomical Society 459 (1), 1104-1123, DOI: 10.1093/mnras/stw656
+
+R. J. Lyon, HTRU2, DOI: 10.6084/m9.figshare.3080389.v1.
+
+This data was obtained with the support of grant EP/I028099/1 for the University of Manchester Centre for Doctoral Training in Computer Science, from the UK Engineering and Physical Sciences Research Council (EPSRC). The raw observational data was collected by the High Time Resolution Universe Collaboration using the Parkes Observatory, funded by the Commonwealth of Australia and managed by the CSIRO.
+
