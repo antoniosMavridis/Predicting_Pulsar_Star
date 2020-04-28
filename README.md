@@ -1,6 +1,8 @@
 # Predicting a Pulsar Star
 
-![neutron star](neutronstar.png))
+
+<img src="pulsar.gif" width="900" height="400" />
+
 
 ## Data Set Information
 HTRU2 is a data set which describes a sample of pulsar candidates collected during the High Time Resolution Universe Survey. <br />
