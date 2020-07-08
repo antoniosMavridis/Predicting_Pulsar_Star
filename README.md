@@ -5,7 +5,7 @@ This is a simple Machine Learning project created for educational purposes. The 
 The project has been created with iPython in Google Colaboratory.
 
 
-<img src="pulsar.gif" width="900" height="400" />
+<img src="neutronstar.png" width="900" height="400" />
 
 
 ## Data Set Information
